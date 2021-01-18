@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9062aad43a73a9642aef3c58b007c33c, type: 3}
+  m_Name: ReactionFirstFirstAct
+  m_EditorClassIdentifier: 
+  text_on_game: "\xAB\u041A\u0430\u043A\u043E\u0435 \u0441\u0438\u043B\u044C\u043D\u043E\u0435
+    \u043F\u0440\u043E\u043A\u043B\u044F\u0442\u044C\u0435, \u0442\u0430\u043A \u044F
+    \u0435\u0433\u043E \u0442\u043E\u0447\u043D\u043E \u043D\u0435 \u0440\u0430\u0437\u0431\u0443\u0436\u0443,
+    \u043D\u0443\u0436\u043D\u043E \u043F\u0440\u0438\u0434\u0443\u043C\u0430\u0442\u044C
+    \u0447\u0442\u043E-\u0442\u043E \u0434\u0440\u0443\u0433\u043E\u0435\xBB"
+  other_text:
+  - {fileID: 11400000, guid: 4dd7e132e2cbd884496c7e5bc7f8fd48, type: 2}
+  - {fileID: 11400000, guid: 2b08bebe614e9bf4c99ef983e7c9f04b, type: 2}
+  - {fileID: 11400000, guid: 432e6206e4fd60a459d0081ec992d2ed, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 91ba2b8583789f04d8d93705553999e9, type: 2}
+  - {fileID: 11400000, guid: 6decffad99d9dcc4e9c9a1745399c4fb, type: 2}
+  - {fileID: 11400000, guid: 585a09a6188dcc24395d246f093480b5, type: 2}
+  - {fileID: 11400000, guid: 8346b29680dd75748a9db531a81af5ad, type: 2}
+  - {fileID: 11400000, guid: afb64a4b5d8ffbf40870a5d0856e7399, type: 2}
+  - {fileID: 11400000, guid: 2b11d8dc9a80033449c580067953cdb9, type: 2}
+  - {fileID: 11400000, guid: a50599ca4faa27e488312b80cdf63114, type: 2}
+  - {fileID: 11400000, guid: ca0fc4f08cbf2c14097f8e8358534b2f, type: 2}
+  - {fileID: 11400000, guid: aaa82f24be24cef46ad4f8c1a021a5bd, type: 2}
+  - {fileID: 11400000, guid: cedb9782e21266148a17227de18dbb3a, type: 2}
+  - {fileID: 11400000, guid: 1ab72d6cb0bb0f7418d494b0ec89548c, type: 2}
+  - {fileID: 11400000, guid: 00cc976264b8da44583650c064bace1d, type: 2}
